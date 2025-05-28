@@ -44,48 +44,50 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ## 1 - Buscar o nome e ano dos filmes
 
-![Exercicio 1](Imagens/1.png)
+![image](https://github.com/user-attachments/assets/0c7cbcec-4c35-485a-9ed8-f13704955c16)
 
 ## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
 
-![Exercicio 2](Imagens/2.png)
+![image](https://github.com/user-attachments/assets/3280ea72-f59c-46ce-8790-631b61633c8d)
 
 ## 3 - Buscar pelo filme de volta para o futuro, trazendo o nome, ano e a duração
 
-![Exercicio 3](Imagens/3.png)
+![image](https://github.com/user-attachments/assets/49543280-6c79-4e94-99cd-c53dad4a9ccf)
 
 ## 4 - Buscar os filmes lançados em 1997
 
-![Exercicio 4](Imagens/4.png)
+![image](https://github.com/user-attachments/assets/8212af85-1605-497e-ae69-01f8f5e0f952)
 
 ## 5 - Buscar os filmes lançados APÓS o ano 2000
 
-![Exercicio 5](Imagens/5.png)
+![image](https://github.com/user-attachments/assets/3dc917f0-88d7-4cc0-a8cf-bbb61f75d3d3)
 
 ## 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
 
-![Exercicio 6](Imagens/6.png)
+![image](https://github.com/user-attachments/assets/fcbe76c3-64df-4f81-a335-45bb08288edf)
 
 ## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
 
-![Exercicio 7](Imagens/7.png)
+![image](https://github.com/user-attachments/assets/7d6e7772-92fe-47cf-a9d9-c06a6afc2377)
+
 
 ## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
 
-![Exercicio 8](Imagens/8.png)
+![image](https://github.com/user-attachments/assets/a9dc04d6-108b-427c-9171-3bb4ae2564ce)
 
 ## 9 - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
 
-![Exercicio 9](Imagens/9.png)
+![image](https://github.com/user-attachments/assets/79f97512-c506-4df9-b904-a0fb599007ce)
 
 ## 10 - Buscar o nome do filme e o gênero
 
-![Exercicio 10](Imagens/10.png)
+![image](https://github.com/user-attachments/assets/7af7500c-2a01-4ab0-8bb3-49cfcd829853)
 
 ## 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
 
-![Exercicio 11](Imagens/11.png)
+![image](https://github.com/user-attachments/assets/5e16b370-8bdb-4f0e-801c-930786260492)
 
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
-![Exercicio 12](Imagens/12.png)
+![image](https://github.com/user-attachments/assets/19292add-0f52-4a80-948a-3f3083188bd6)
+
